@@ -1,1 +1,1 @@
-in this project we get a book id from customer and gives the information of the book to the consumer. it runs in swager and has Docker and also UnitTesting. First cjecks the memory then redis and at the end get the information from taghche. It also uses rabbitMQ.
+In this project we get a book id from customer then give the book's text to the consumer. It runs in swager and has Docker and UnitTesting. First checks the memory then redis and at the end gets the information from taghche. It also uses rabbitMQ.
