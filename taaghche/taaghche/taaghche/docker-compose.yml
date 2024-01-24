@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  taaghche:
+    image: ${DOCKER_REGISTRY-}taaghche
+    build:
+      context: .
+      dockerfile: taaghche/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:5000
+      - Settings__MemoryTimeOut=30
+      - Settings__RedisTimeOut=60
+    ports:
+        - 5000:5000
+
+  redis:
+     image: redis
+  rabbitmq:
+     image: rabbitmq

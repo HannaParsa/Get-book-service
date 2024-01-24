@@ -1,0 +1,328 @@
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTests
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\testhost.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.deps.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.runtimeconfig.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\appsettings.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.exe
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\testhost.exe
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.deps.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.runtimeconfig.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.pdb
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.pdb
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.csproj.AssemblyReference.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfo.cs
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CopyComplete
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\refint\UnitTests.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.pdb
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTests
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\appsettings.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\testhost.exe
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\testhost.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.deps.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.runtimeconfig.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.exe
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.deps.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.runtimeconfig.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\UnitTests.pdb
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\taaghche.pdb
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.csproj.AssemblyReference.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfo.cs
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CopyComplete
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\refint\UnitTests.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.pdb
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll

@@ -1,0 +1,29 @@
+name: dockercompose14628352902157752033
+services:
+  rabbitmq:
+    image: rabbitmq
+    networks:
+      default: null
+  redis:
+    image: redis
+    networks:
+      default: null
+  taaghche:
+    build:
+      context: C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche
+      dockerfile: taaghche/Dockerfile
+    environment:
+      ASPNETCORE_URLS: http://+:5000
+    image: taaghche
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5000
+      protocol: tcp
+    - mode: ingress
+      target: 5001
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose14628352902157752033_default

@@ -1,0 +1,52 @@
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\taaghche.deps.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\taaghche.runtimeconfig.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\appsettings.Development.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\appsettings.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\taaghche.exe
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\StackExchange.Redis.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\RabbitMQ.Client.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\System.Threading.Channels.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\bin\Debug\taaghche.pdb
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\taaghche.deps.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\taaghche.runtimeconfig.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\appsettings.Development.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\appsettings.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\taaghche.exe
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\StackExchange.Redis.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\RabbitMQ.Client.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\System.Threading.Channels.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\bin\Debug\taaghche.pdb
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\obj\Debug\docker-compose.dcproj.CopyComplete

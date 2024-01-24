@@ -1,0 +1,537 @@
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\appsettings.json
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\taaghche.exe
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\taaghche.deps.json
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\taaghche.runtimeconfig.json
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\taaghche.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\taaghche.pdb
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.AssemblyReference.cache
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\scopedcss\bundle\taaghche.styles.css
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CopyComplete
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\refint\taaghche.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.pdb
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\taaghche.genruntimeconfig.cache
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\obj\Debug\net6.0\ref\taaghche.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\alahyarparsa\source\repos\taaghche\taaghche\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\appsettings.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.exe
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.deps.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.runtimeconfig.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.pdb
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.AssemblyReference.cache
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfoInputs.cache
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfo.cs
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CoreCompileInputs.cache
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.taaghche.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.build.taaghche.props
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.taaghche.props
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.taaghche.props
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\scopedcss\bundle\taaghche.styles.css
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CopyComplete
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\refint\taaghche.dll
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.pdb
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.genruntimeconfig.cache
+C:\Users\m.saadat\Downloads\Telegram Desktop\taaghche\taaghche\taaghche\obj\Debug\net6.0\ref\taaghche.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\appsettings.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\taaghche.exe
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\taaghche.deps.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\taaghche.runtimeconfig.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\taaghche.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\taaghche.pdb
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.AssemblyReference.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfoInputs.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfo.cs
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CoreCompileInputs.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.taaghche.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.build.taaghche.props
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.taaghche.props
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.taaghche.props
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\scopedcss\bundle\taaghche.styles.css
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CopyComplete
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\refint\taaghche.dll
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.pdb
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\taaghche.genruntimeconfig.cache
+C:\Users\Hana\Desktop\taaghchnew\taaghche\taaghche\obj\Debug\net6.0\ref\taaghche.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\appsettings.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.exe
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.deps.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.runtimeconfig.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.pdb
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.AssemblyReference.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfoInputs.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfo.cs
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CoreCompileInputs.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.taaghche.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.build.taaghche.props
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.taaghche.props
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.taaghche.props
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\scopedcss\bundle\taaghche.styles.css
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CopyComplete
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\refint\taaghche.dll
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.pdb
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.genruntimeconfig.cache
+C:\Users\Hana\Desktop\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\ref\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\appsettings.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.exe
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.deps.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.runtimeconfig.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\taaghche.pdb
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.AssemblyReference.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfo.cs
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\scopedcss\bundle\taaghche.styles.css
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CopyComplete
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\refint\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.pdb
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\taaghche.genruntimeconfig.cache
+C:\Users\alahyarparsa\Desktop\taaghche-hanna parsa\taaghche-hanna parsa-task\taaghcheNew\taaghche\taaghche\obj\Debug\net6.0\ref\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\appsettings.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.exe
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.deps.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.runtimeconfig.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\taaghche.pdb
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.AssemblyReference.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.AssemblyInfo.cs
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\scopedcss\bundle\taaghche.styles.css
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.csproj.CopyComplete
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\refint\taaghche.dll
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.pdb
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\taaghche.genruntimeconfig.cache
+C:\Users\alahyarparsa\Desktop\taaghche\taaghche\taaghche\taaghche\taaghche\obj\Debug\net6.0\ref\taaghche.dll
